@@ -86,6 +86,14 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         </sub>
       </a>
     </td>
+    <td align="center">
+       <a href="#">
+         <img src="https://user-images.githubusercontent.com/65235458/142058759-75d9e135-63d7-4c66-9775-267720ca0a5b.png" width="100px;" alt="Foto do Matheus no GitHub"/><br>
+         <sub>
+           <b>Matheus Assis</b>
+         </sub>
+       </a>
+     </td>
   </tr>
 </table>
 
